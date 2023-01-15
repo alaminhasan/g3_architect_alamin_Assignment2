@@ -14,10 +14,10 @@ body{
     padding: 0px 140px;
     margin: 0 auto;
 }
-img{
+/* img{
     width: 100%;
     height: auto;
-}
+} */
 .btn{
     padding: 20px 25px;
     background: #FF900E;
@@ -200,11 +200,13 @@ img{
     display: flex;
     gap: 50px;
 }
-.brand_image_container img{
-    width: 20%;
-}
+
 /* sponsor end here */
 
-
+.footer_container{
+    background: #FFF4E7;
+    padding: 40px 0px;
+    text-align: center;
+}
 
 
